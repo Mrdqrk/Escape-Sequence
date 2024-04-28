@@ -1,9 +1,9 @@
 const imageSources = [
-  "assets/trail.jpg",
-  "assets/lakesunset.jpg",
-  "assets/cabin.jpg",
-  "assets/doe.jpg",
-  "assets/starrynight.jpg",
+  "trail.jpg",
+  "lakesunset.jpg",
+  "cabin.jpg",
+  "doe.jpg",
+  "starrynight.jpg",
 ];
 
 function addThumbnail(imageSource) {
